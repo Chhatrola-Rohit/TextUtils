@@ -1,7 +1,7 @@
 # TextUtils
-A Small Tool for Text analyzing
-It is my Django Python practice Project 
-In This project we can format the text or any strings
+A Small Tool for Text analyzing.
+It is my Django Python practice Project ,
+In This project we can format the text or any strings,
 I used bootstrap for give the some beautiful looks to project 
 
 *functionality of this project 
